@@ -7,7 +7,7 @@ class Solution {
             int mid=l+(r-l)/2;
             if(arr[mid]==target)return mid;
             if(arr[l]<=arr[mid]){
-                if(arr[l]<=target && target<arr[mid]){
+                if(arr[l]<=target && target<=arr[mid]){
                     r=mid-1;
                 }else{
                     l=mid+1;

@@ -323,4 +323,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->

@@ -19,10 +19,11 @@ class Solution {
         int put = 0;
         m--;
         for(int i=1;i<arr.length;i++){
-            if(Math.abs(arr[put] - arr[i]) >= k){
-                put = i;
-                m--;
+            if(Math.abs(arr[put] - arr[i]) < k){
+                continue;
             }
+            put = i;
+            m--;
             if(m<=0)return true;
         }
         return false;

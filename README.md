@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0410-split-array-largest-sum](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/0410-split-array-largest-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/0523-continuous-subarray-sum) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/0410-split-array-largest-sum) |
 | [0523-continuous-subarray-sum](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
+| [0410-split-array-largest-sum](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -180,11 +183,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
+| [0410-split-array-largest-sum](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/0410-split-array-largest-sum) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0410-split-array-largest-sum](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/0410-split-array-largest-sum) |
 | [1301-number-of-paths-with-max-score](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/1301-number-of-paths-with-max-score) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sliding Window

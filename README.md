@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3312-sorted-gcd-pair-queries](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Hash Table
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [1331-rank-transform-of-an-array](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3312-sorted-gcd-pair-queries](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Sorting
 |  |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [3312-sorted-gcd-pair-queries](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/3312-sorted-gcd-pair-queries) |
 ## Quickselect
 |  |
 | ------- |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/0410-split-array-largest-sum) |
 | [0523-continuous-subarray-sum](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
+| [3312-sorted-gcd-pair-queries](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Two Pointers
 |  |
@@ -180,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/1552-magnetic-force-between-two-balls) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3312-sorted-gcd-pair-queries](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
@@ -231,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0523-continuous-subarray-sum](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/0523-continuous-subarray-sum) |
+| [3312-sorted-gcd-pair-queries](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Monotonic Stack
@@ -363,5 +369,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->

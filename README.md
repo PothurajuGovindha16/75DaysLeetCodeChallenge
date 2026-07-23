@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/0713-subarray-product-less-than-k) |
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/0239-sliding-window-maximum) |
 ## Math
 |  |
 | ------- |
@@ -401,4 +405,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/1260-shift-2d-grid) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->

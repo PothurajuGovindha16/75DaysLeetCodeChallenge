@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/0713-subarray-product-less-than-k) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0628-maximum-product-of-three-numbers](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/1331-rank-transform-of-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/1552-magnetic-force-between-two-balls) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0523-continuous-subarray-sum](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/0523-continuous-subarray-sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/3513-number-of-unique-xor-triplets-i) |

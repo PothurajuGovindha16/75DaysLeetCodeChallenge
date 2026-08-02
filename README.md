@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/0410-split-array-largest-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/0410-split-array-largest-sum) |
+| [0486-predict-the-winner](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/1301-number-of-paths-with-max-score) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0486-predict-the-winner](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/0486-predict-the-winner) |
 | [0523-continuous-subarray-sum](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/0877-stone-game) |
@@ -331,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
+| [0486-predict-the-winner](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/0486-predict-the-winner) |
 ## Tree
 |  |
 | ------- |
@@ -460,5 +464,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/PothurajuGovindha16/75DaysLeetCodeChallenge/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
